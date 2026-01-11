@@ -8,6 +8,6 @@
     -  Linkedin: https://www.linkedin.com/in/jordanmkleung/
 
 ### 🛠 Tech Stack
-**Languages:** JavaScript (ES6+), HTML5, CSS, Python, React Framework
-**Tools:** Git, GitHub, VS Code, Vite
-**Test Tools:** Jest, Playwright
+- **Languages:** JavaScript (ES6+), HTML5, CSS, Python, React Framework.
+- **Tools:** Git, GitHub, VS Code, Vite.
+- **Test Tools:** Jest, Playwright.
